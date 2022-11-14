@@ -1,7 +1,7 @@
 <script>
   let posts = [
     {
-      title: 'title',
+      title: '1',
       description: 'description',
       pubDate: '9/1/2022',
       author: 'Jon Kline',
